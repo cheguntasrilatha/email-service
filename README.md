@@ -1,4 +1,4 @@
-# Email Service
+# Email Service Provider
 
 A resilient email sending service built with TypeScript featuring:
 - ✅ Retry with exponential backoff
