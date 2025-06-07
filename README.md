@@ -57,4 +57,3 @@ npm test
 
 ---
 
-### ✅ You're ready to upload to GitHub & deploy
